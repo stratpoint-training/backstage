@@ -6,7 +6,7 @@ metadata:
   annotations:
     argocd/app-name: backstage-prd
     backstage.io/kubernetes-id: backstage
-    backstage.io/techdocs-ref: dir:.
+    backstage.io/techdocs-ref: url:https://github.com/stratpoint-training/backstage
     github.com/project-slug: devxp-tech/backstage
     grafana/tag-selector: "Kubernetes"
     kubecost.com/deployment-name: "backstage"
